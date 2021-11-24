@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming and Data Science
 - 🌱 I’m currently learning Python
 
-<div align="center">
   <a href="https://github.com/nikolaskaracsonyi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaskaracsonyi&&show_icons=true&title_color=ffffff&icon_color=8B0000&text_color=ffffff&bg_color=000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaskaracsonyi&layout=compact&langs_count=7&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=000000"/>
